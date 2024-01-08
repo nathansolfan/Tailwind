@@ -9,3 +9,7 @@
     @apply bg-black rounded overflow-hidden shadow-md relative
 
 }
+
+.badge {
+    @apply bg-blue-100 text-green-200 text-xs uppercase font-bold rounded-full p-2 absolute top-0 ml-2 mt-2
+}
