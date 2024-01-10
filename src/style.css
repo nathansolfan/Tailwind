@@ -6,7 +6,7 @@
 
 /* selector */
 .card {
-    @apply bg-black rounded overflow-hidden shadow-md relative
+    @apply bg-white rounded overflow-hidden shadow-md relative
 
 }
 
